@@ -1338,7 +1338,7 @@ input, select, textarea {
 		left: 0;
 		top: 0;
 		width: 100%;
-		background: url("images/overlay.png"), url("../../images/unad.png.");
+		background: url("images/overlay.png"), url("../../images/unad.png");
 		background-repeat: repeat, no-repeat;
 		height: 5em;
 		line-height: 5em;
